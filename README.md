@@ -31,11 +31,12 @@ ECP1.0/2.0テクノロジーを使用して、Apple VAS にZebra Android デバ�
 1. iPhoneをインターネット接続できる状態にする
    
 2. カメラで下記QRコードをスキャンする。
+   
     <img src="https://techdocs.zebra.com/nfc-vas/1-0/guide/demo/qrcode.jpg" width="30%">
 
-1. URLが表示されたら、選択。
+3. URLが表示されたら、選択。
    
-2. 画面表示のガイドの通り処理を進め、Apple Passの登録をする。
+4. 画面表示のガイドの通り処理を進め、Apple Passの登録をする。
 
     </br>
 
